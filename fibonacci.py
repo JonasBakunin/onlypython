@@ -1,3 +1,5 @@
+#programa em que o usuário digita um número e o programa diz se esse numero pertence à sequência fibonacci ou não.
+
 def fibonacci(n):
 # Função que retorna o n-ésimo número da sequência de Fibonacci.
 
