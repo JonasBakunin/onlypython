@@ -1,3 +1,4 @@
+#-Faça um programa em Python que recebe uma string que representa uma cadeia de DNA e gera a cadeia complementar.
 cadeia = 'ATCG'
 
 cadeia = cadeia.replace('A','t')
